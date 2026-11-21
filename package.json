@@ -1,0 +1,10 @@
+{
+  "name": "nimpeditphoto",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "NimpEditPhoto - editor foto realtime dengan pemisahan objek dan isi pintar",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
